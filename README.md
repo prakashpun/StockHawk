@@ -1,11 +1,12 @@
 # Stock Hawk
 
-This is the starter code for project 3 in Udacity's [Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801). 
+In this project, you will productionize an app, taking them from a functional state to a production-ready state. To do this, you will find and handle error cases, add accessibility features, allow for localization, add widgets, and add a library.
 
-Check out Udacity's [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855) course to get the skills you'll need to complete this project!
+This project will read Stock details from Yahoo Finance API's and create a list of stocks you want to follow. It uses charts to show historical data for a particular stock. You'll also create a list collection widget that displays stock values on home screen.
 
-If you're a Nanodegree student check your work againt the project [rubric](https://review.udacity.com/#!/rubrics/140/view), then click [here](https://classroom.udacity.com/nanodegrees/nd801/parts/8011345406/project) to submit your project.
+Following libraries are used in the project :
 
-# Contrubuting
+- https://github.com/PhilJay/MPAndroidChart
+- https://github.com/JakeWharton/timber
+- http://jakewharton.github.io/butterknife/
 
-Pull requests gratefully accepted.
