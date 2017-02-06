@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\prakash_pun\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.1\369f9aa48a629b4e92557b37326f42dc3de796e4\MPAndroidChart-v3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="369f9aa48a629b4e92557b37326f42dc3de796e4">
+        <dex dex="D:\UdacityProjects\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v3.0.1_5f64ae73f5a6a99324e434099278a8546c26adff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\UdacityProjects\StockHawk\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\UdacityProjects\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_2d8fef0be2ed0f99ca97b65e8dd73ae6fcff5ce9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\UdacityProjects\StockHawk\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\UdacityProjects\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_e5a33cddf41b7850621da1c57677b41d4adfddff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\UdacityProjects\StockHawk\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="D:\UdacityProjects\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_0c0e5170cd84a55fc89f1f35b42388d2cfbd6871\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\UdacityProjects\StockHawk\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\UdacityProjects\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_dfbf15928643de7043da54dbe4877ecca0e5dd2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\UdacityProjects\StockHawk\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\UdacityProjects\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_509a19510d2fe7c562c37ee7d3fd0037c09e929a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\UdacityProjects\StockHawk\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="59f47c4c9b31fd754aba1385b5350d59fd46f143">
+        <dex dex="D:\UdacityProjects\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_456b086b33d31669d912b085787d75a8bd5e1a7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\UdacityProjects\StockHawk\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\UdacityProjects\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_f4bf0e76fc2b8ab3dc2052240373bb1748aba140\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\UdacityProjects\StockHawk\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\UdacityProjects\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_e992660f8387e453bab0f4e8c73e7c93f81dce08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\prakash_pun\.gradle\caches\modules-2\files-2.1\net.sf.opencsv\opencsv\2.3\c23708cdb9e80a144db433e23344a788a1fd6599\opencsv-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c23708cdb9e80a144db433e23344a788a1fd6599">
+        <dex dex="D:\UdacityProjects\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\opencsv-2.3_da05f54088bdd6cd13d4e0126f49936b16602439\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\UdacityProjects\StockHawk\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="488b47c36d59393dc821f798765fc8152c31fc4b">
+        <dex dex="D:\UdacityProjects\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_72a8d2b31f77292be3a14f8f3eae0ed779ccc585\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\UdacityProjects\StockHawk\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\UdacityProjects\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_846c89b98b4effc272210af429ef7f0daf841ef2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\UdacityProjects\StockHawk\app\build\intermediates\exploded-aar\com.jakewharton.timber\timber\4.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76182d2ede06926e942e5a947a130b915b83a489">
+        <dex dex="D:\UdacityProjects\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton.timber-timber-4.4.0_31e5f6362af65980579c48c8bca29ff9c75df5c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\prakash_pun\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\20.0\89507701249388e1ed5ddcf8c41f4ce1be7831ef\guava-20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="89507701249388e1ed5ddcf8c41f4ce1be7831ef">
+        <dex dex="D:\UdacityProjects\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-20.0_dd9a1562df81607080ef93a0bcffe1731b381f10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\prakash_pun\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="D:\UdacityProjects\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_6fbfa821e297cca357cbc5db53e603c5d9deb02b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\prakash_pun\.gradle\caches\modules-2\files-2.1\com.yahoofinance-api\YahooFinanceAPI\3.5.0\614af927df86e3e5b925bb14daed8600886908e8\YahooFinanceAPI-3.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="614af927df86e3e5b925bb14daed8600886908e8">
+        <dex dex="D:\UdacityProjects\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\YahooFinanceAPI-3.5.0_0ed29ba76845116d533409eefcaf05d3d836351f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\UdacityProjects\StockHawk\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\UdacityProjects\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_16d182d12204bfbb4db42ad67cf4f2f0e3bd32ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\UdacityProjects\StockHawk\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\UdacityProjects\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_f34a175bd7a4c43f7726b66be28d0ab723803d6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\UdacityProjects\StockHawk\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\UdacityProjects\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_d4897a94bf225d1308c11720b22bd54826be0deb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\UdacityProjects\StockHawk\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="D:\UdacityProjects\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_3d9baf8f6b9cce3ef34d5f6239c5747353a23bc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\UdacityProjects\StockHawk\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="D:\UdacityProjects\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_94878e47ad469c1234bcd7b30d875cfe2c9313f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\prakash_pun\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\UdacityProjects\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_3040770556fe23cb499de38c4362f3f07b5dc336\classes.dex" />
+    </item>
+
+</items>
